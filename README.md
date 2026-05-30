@@ -44,15 +44,15 @@ TransitPulse helps commuters make smarter travel decisions through real-time tra
 
 ### Home Screen
 
-![Home Screen](assets/home-screen.png)
+![Home Screen](assets/home-screen.jpg)
 
 ### Smart Live Map
 
-![Smart Live Map](assets/live-map.png)
+![Smart Live Map](assets/live-map.jpg)
 
 ### Crowd Analytics
 
-![Crowd Analytics](assets/crowd-analytics.png)
+![Crowd Analytics](assets/crowd-analytics.jpg)
 
 ---
 
