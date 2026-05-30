@@ -39,8 +39,7 @@ TransitPulse helps commuters make smarter travel decisions through real-time tra
 
 Figma Prototype:
 
-https://www.figma.com/design/sYR9qYmEvP47pIAEw2Xm0c/TransitPulse-Mobile-App-Prototype
-
+http://figma.com/make/sYR9gYmEvP47gIAEw2Xm0c/TransitPulse-Mobile-App-Prototype?p=f&t=QYB1SaWfU4UAS4GD-0
 ---
 
 ## 🛠 Tech Stack
