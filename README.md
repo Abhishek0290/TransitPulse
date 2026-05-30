@@ -9,46 +9,68 @@ TransitPulse helps commuters make smarter travel decisions through real-time tra
 ## ✨ Features
 
 ### 🧠 AI ETA Prediction
-- Real-time arrival predictions
-- Confidence scoring
-- Best-case and worst-case estimates
+
+* Real-time arrival predictions
+* Confidence scoring
+* Best-case and worst-case estimates
 
 ### 🗺 Smart Live Map
-- Live vehicle tracking
-- Route visualization
-- Fleet monitoring
+
+* Live vehicle tracking
+* Route visualization
+* Fleet monitoring
 
 ### 👥 Crowd Analytics
-- Occupancy prediction
-- Peak-hour forecasting
-- Smart route recommendations
+
+* Occupancy prediction
+* Peak-hour forecasting
+* Smart route recommendations
 
 ### 🆘 Emergency SOS
-- One-tap emergency alerts
-- Multiple emergency categories
-- Safety-focused design
+
+* One-tap emergency alerts
+* Multiple emergency categories
+* Safety-focused design
 
 ### 🌱 Eco Impact Tracking
-- CO₂ savings estimation
-- Money saved insights
-- Sustainable travel awareness
+
+* CO₂ savings estimation
+* Money saved insights
+* Sustainable travel awareness
+
+---
+
+## 📸 Screenshots
+
+### Home Screen
+
+![Home Screen](assets/home-screen.png)
+
+### Smart Live Map
+
+![Smart Live Map](assets/live-map.png)
+
+### Crowd Analytics
+
+![Crowd Analytics](assets/crowd-analytics.png)
 
 ---
 
 ## 🎨 Design Prototype
 
-Figma Prototype:
+### Interactive Figma Prototype
 
-http://figma.com/make/sYR9gYmEvP47gIAEw2Xm0c/TransitPulse-Mobile-App-Prototype?p=f&t=QYB1SaWfU4UAS4GD-0
+https://www.figma.com/make/sYR9gYmEvP47gIAEw2Xm0c/TransitPulse-Mobile-App-Prototype?t=QYB1SaWfU4UAS4GD-0
+
 ---
 
 ## 🛠 Tech Stack
 
-- React
-- TypeScript
-- Vite
-- Tailwind CSS
-- Figma
+* React
+* TypeScript
+* Vite
+* Tailwind CSS
+* Figma
 
 ---
 
@@ -60,12 +82,30 @@ Built with a focus on accessibility, sustainability and smarter urban mobility.
 
 ---
 
+## 🚀 Future Scope
+
+* Real-time GPS integration
+* Smart route optimization
+* Predictive traffic analysis
+* Multi-city deployment support
+* AI-powered travel recommendations
+* Sustainability analytics dashboard
+
+---
+
 ## 👨‍💻 Author
 
-Abhishek Dwivedi
+### Abhishek Dwivedi
 
-Portfolio:
+🌐 Portfolio
 https://abhishekdwivedi-portfolio.vercel.app
 
-LinkedIn:
+💼 LinkedIn
 https://www.linkedin.com/in/abhishekdwivedi29/
+
+📧 Email
+[abhishekdwi455@gmail.com](mailto:abhishekdwi455@gmail.com)
+
+---
+
+⭐ Building smarter mobility experiences through technology.
